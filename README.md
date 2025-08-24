@@ -20,8 +20,7 @@ Edit
 
 **Mô tả:** Tạo profile với thông tin proxy và tên profile.
 
-**Request Body (JSON):**
-```json
+
 {
   "ProfileName": "Thuyendev4344n3gay24",
   "ListProxy": "nova.tunproxy.net:35313",
